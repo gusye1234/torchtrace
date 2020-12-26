@@ -1,0 +1,11 @@
+torch.Tensor
+torch.nn.functional
+torch.matmul
+torch.zeros
+torch.ones
+torch.sum
+torch.mean
+torch.abs
+torch.saves
+torch.load
+torch.rand
